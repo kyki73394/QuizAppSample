@@ -11,6 +11,8 @@
 		BD32AFEE2BB6122600907CB7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD32AFED2BB6122600907CB7 /* ContentView.swift */; };
 		BD32AFF02BB6122800907CB7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD32AFEF2BB6122800907CB7 /* Assets.xcassets */; };
 		BD32AFF32BB6122800907CB7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD32AFF22BB6122800907CB7 /* Preview Assets.xcassets */; };
+		BD32AFFA2BB6190C00907CB7 /* Question2.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD32AFF92BB6190C00907CB7 /* Question2.swift */; };
+		BD32AFFC2BB6227C00907CB7 /* Question3.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD32AFFB2BB6227C00907CB7 /* Question3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		BD32AFED2BB6122600907CB7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BD32AFEF2BB6122800907CB7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BD32AFF22BB6122800907CB7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		BD32AFF92BB6190C00907CB7 /* Question2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question2.swift; sourceTree = "<group>"; };
+		BD32AFFB2BB6227C00907CB7 /* Question3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				BD32AFEB2BB6122600907CB7 /* QuizAppSampleApp.swift */,
 				BD32AFED2BB6122600907CB7 /* ContentView.swift */,
+				BD32AFF92BB6190C00907CB7 /* Question2.swift */,
+				BD32AFFB2BB6227C00907CB7 /* Question3.swift */,
 				BD32AFEF2BB6122800907CB7 /* Assets.xcassets */,
 				BD32AFF12BB6122800907CB7 /* Preview Content */,
 			);
@@ -137,6 +143,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BD32AFFA2BB6190C00907CB7 /* Question2.swift in Sources */,
+				BD32AFFC2BB6227C00907CB7 /* Question3.swift in Sources */,
 				BD32AFEE2BB6122600907CB7 /* ContentView.swift in Sources */,
 				BD32AFEC2BB6122600907CB7 /* QuizAppSampleApp.swift in Sources */,
 			);
